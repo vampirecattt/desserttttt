@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<style>
+
+
+
+
+h1{
+    color: rgb(156, 55, 156);
+    text-align: center;  
+    background-color: rgb(218, 122, 166);
+    height: 50px;
+    width: 300;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px rgb(133, 25, 118);
+}
+
+
+
+
+
+
+p{
+    color:rgb(156, 55, 156);
+    text-align: center;
+}
+
+
+
+
+
+
+#red{
+    color: rgb(182, 0, 27);
+}
+
+
+
+
+
+
+#blue{
+    color: rgb(0, 86, 184);
+}
+
+
+
+
+
+
+#ho{
+    color:rgb(156, 55, 156);
+    text-align: center;
+    border: 3px solid rgb(122, 0, 57);
+    width: 200px;
+}
+
+
+
+
+
+
+#hi{
+    color:rgb(156, 55, 156); text-align: center;
+}
+
+
+
+
+
+
+#link{
+    text-align: center;
+    border: 3px solid rgb(122, 0, 57);
+    width: 200px;
+    height: 50px;
+}
+
+
+
+
+
+
+</style>
+
+
+<head>
+   
+<body style="background-color: lightpink; ">
+    <h1> 🎂Dessert shop🍨</h1>
+    <p> We are the
+        <span id="red">tastiest</span> and the
+            <span id="blue"> best</span>
+        in town!</p>
+
+
+    <h1> Our menu🍰</h1>
+    <ul id="ho">
+        <li> Red velvet cake <b>8k</b></li>
+        <li> Chocolate cake <b>8k</b></li>
+        <li> Cheesecake <b>8k</b></li>
+        <li> Tiramisu cake <b>10k</b> </li>
+    </ul>
+
+
+
+
+    <h1> Opening hours⏰ </h1>
+    <ul id="hi">
+        <li> 🟢Monday to Wednesday 8am to 5pm</li>
+        <li> 🟢Thursday and Friday 8am to 7pm</li>
+        <li> 🔴Saturday and Sunday closed</li>
+    </ul id="hi">
+
+
+
+
+    <h1> Payment method💷</h1>
+    <p>We accept:</p>
+    <ul id="ho">
+        <li> Cash💵</li>
+        <li> ATM cards🏧</li>
+        <li> Credit cards💳</li>
+        <li> American Express💎</li>
+        <li> Discovery💲</li>
+    </ul>
+
+
+   
+    <p id="link" ><a
+        href="https://www.google.com/maps/place/Shangri-La+Ulaanbaatar/@47.91368,106.9160766,17z/data=!4m9!3m8!1s0x5d969248386a3113:0xc8db7a3088410eac!5m2!4m1!1i2!8m2!3d47.9129533!4d106.9202079!16s%2Fg%2F1td7sy4v?entry=ttu&g_ep=EgoyMDI1MDIxMC4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D">
+        📍Our location</a></p> </p>
+</body>
+</head>
+
+
+
+
+<body>
+
+
+
+
+</body>
+
+
+
+
+</html>
+
+
